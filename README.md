@@ -24,7 +24,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+About+me;"></a>
 </p>
 
-- 🎵 La música es parte de mi día a día — hasta hice un script para descargar y organizar playlists de Spotify por género (proximamente)
+- 🎵 La música es parte de mi día a día — hasta hice un script para descargar playlists de Spotify (proximamente disponible)
 - 💻 Me apasiona la tecnología en todas sus formas: desde levantar infraestructura en la nube hasta debuggear un backend a las 2am
 - 📚 Soy de los que disfruta aprender cosas nuevas constantemente — bases de datos, redes, arquitectura de software, lo que sea que toque ese día
 - 🌱 Siempre con algo nuevo por aprender, ya sea en clase o en un proyecto real como StayDesk
