@@ -24,11 +24,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+About+me;"></a>
 </p>
 
-- 💻 Building **StayDesk**, a hotel management system with **Vue 3 + FastAPI + SQL**
-- 🏗️ Backend architecture: layered design (models, repositories, services, routers)
-- ☁️ Deploying on **Oracle Cloud Infrastructure (OCI)**
-- 🌱 Currently exploring new softwares and frameworks
-- 🛠️ IDE of choice: **Devin** & **Jetbrains Suite**
+- 🎵 La música es parte de mi día a día — hasta hice un script para descargar y organizar playlists de Spotify por género (proximamente)
+- 💻 Me apasiona la tecnología en todas sus formas: desde levantar infraestructura en la nube hasta debuggear un backend a las 2am
+- 📚 Soy de los que disfruta aprender cosas nuevas constantemente — bases de datos, redes, arquitectura de software, lo que sea que toque ese día
+- 🌱 Siempre con algo nuevo por aprender, ya sea en clase o en un proyecto real como StayDesk
 
 ---
 <!-- TECH STACK -->
